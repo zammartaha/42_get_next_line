@@ -45,6 +45,6 @@ while (line)
 ## Resources
 
 ### References
-* **Man7.org - Read** - Manual page for the read system call. https://man7.org/linux/man-pages/man2/read.2.html
-* **Man7.org - Open** - Manual page for opening files/file descriptors. https://man7.org/linux/man-pages/man2/open.2.html
-* **GeeksforGeeks - Static Variables in C** - Explanation of static variables. https://www.geeksforgeeks.org/c/static-variables-in-c/
+* **[Man7.org - Read](https://man7.org/linux/man-pages/man2/read.2.html)** - Manual page for the read system call.
+* **[Man7.org - Open](https://man7.org/linux/man-pages/man2/open.2.html)** - Manual page for opening files/file descriptors.
+* **[GeeksforGeeks - Static Variables in C](https://www.geeksforgeeks.org/c/static-variables-in-c/)** - Explanation of static variables.
