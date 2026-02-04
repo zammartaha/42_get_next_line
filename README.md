@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by tzammar.*
 
-# Get Next Line
+# Get Next Line - Reading a line from a file descriptor is way too tedious.
 
 ## Description
 
