@@ -1,14 +1,14 @@
 *This project has been created as part of the 42 curriculum by tzammar.*
 
-# Libft - Your First C Library
+# Get Next Line
 
 ## Description
 
-**Libft** is the very first project at 42. The goal of this project is to create a C library (`libft.a`) from scratch.
+**Get Next Line** is a project at 42 that challenges you to write a function that reads a line from a file descriptor.
 
-As C programmers, we do not have access to a standard library with the same ease as in other languages. This project requires replicating many of the standard C library functions (from headers like `stdio.h`, `string.h`, `ctype.h`, and `stdlib.h`) as well as creating additional utility functions that will be useful for future 42 projects.
+Reading from a file one line at a time is a common task in programming, but the standard C library doesn't provide a simple function to do this without standard I/O streams. This project requires manipulating file descriptors, managing buffers, and utilizing **static variables** to preserve the state of the file reading between function calls.
 
-The project emphasizes understanding memory management, string manipulation, and linked lists, serving as a foundational toolkit for the entire curriculum.
+The core objective is to create a function `get_next_line` which returns a line read from a file descriptor, or `NULL` if there is nothing else to read or an error occurred.
 
 ## Instructions
 
